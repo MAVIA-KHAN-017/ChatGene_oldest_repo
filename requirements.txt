@@ -1,0 +1,12 @@
+pandas
+pandasai==1.3.3
+openai
+matplotlib
+numpy
+pillow
+python-dotenv
+bs4
+flasgger
+flask_cors
+flask
+seaborn
